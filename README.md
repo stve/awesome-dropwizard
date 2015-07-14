@@ -14,6 +14,9 @@
 * [dropwizard-quartz](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz.
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
 * [dropwizard-caching-bundle](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
+* [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
+* [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Crytpographic Bundle for Dropwizard
+* [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) - A Dropwizard Bundle for Etcd
 
 ## Tutorials
 
@@ -29,12 +32,23 @@
 * [Using Hibernate DAOs in DropWizard Tasks](http://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
 * [Hibernate in Dropwizard CLI Commands](http://clearthehaze.com/2015/04/hibernate-in-dropwizard-cli-commands/)
 * [Heroku for Highly Available Dropwizard Apps](http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1)
+* [Enabling Newrelic for Dropwizard](http://kyleboon.org/blog/2013/09/23/newrelic-for-dropwizard/)
+* [Application Health Checks with DropWizard](http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard/)
+* [Using Hystrix with Dropwizard](http://christopher-batey.blogspot.com/2014/08/using-hystrix-with-dropwizard.html)
+* [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
+* [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
+* [Use Consul's KV store for Dropwizard settings](http://blog.remmelt.com/2015/06/09/use-consuls-kv-store-for-dropwizard-settings/)
 
 ## Community
 
 * [dropwizard-user](https://groups.google.com/forum/#!forum/dropwizard-user)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/dropwizard)
 * [`@dropwizardio` on twitter](https://twitter.com/dropwizardio)
+
+## Videos
+
+* [Introduction to Dropwizard](https://www.youtube.com/watch?v=2tSWsjtw0ms)
+* [Instant-ish Real Service Architecture](https://vimeo.com/37930578)
 
 ## Contribute
 
