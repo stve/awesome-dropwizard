@@ -1,6 +1,6 @@
 # Awesome Dropwizard
 
-[<img src="https://rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="100">](http://www.dropwizard.io)
+[<img src="https://rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">](http://www.dropwizard.io)
 
 > Useful resources for creating apps with [Dropwizard](http://www.dropwizard.io)
 
