@@ -40,6 +40,10 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+## Awesome!
+
+Check out more [awesome projects](https://github.com/sindresorhus/awesome).
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
