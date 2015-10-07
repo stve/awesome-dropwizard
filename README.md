@@ -17,6 +17,7 @@
 * [dropwizard-xml](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-crypto](https://github.com/meltmedia/dropwizard-crypto) - A Crytpographic Bundle for Dropwizard
 * [dropwizard-etcd](https://github.com/meltmedia/dropwizard-etcd) - A Dropwizard Bundle for Etcd
+* [dropwizard-circuitbreaker](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 
 ## Tutorials
 
