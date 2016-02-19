@@ -21,10 +21,10 @@
 
 ## Tutorials
 
-- [Getting Started](http://www.dropwizard.io/0.9.2/docs/getting-started.html)
-- [Official docs](http://www.dropwizard.io/0.9.2/docs/manual/index.html)
-- [Dropwizard internals](http://dropwizard.github.io/dropwizard/0.9.2/docs/manual/internals.html)
-- [Dropwizard Modules Directory](http://modules.dropwizard.io/)
+* [Getting Started](http://www.dropwizard.io/0.9.2/docs/getting-started.html)
+* [Official docs](http://www.dropwizard.io/0.9.2/docs/manual/index.html)
+* [Dropwizard internals](http://dropwizard.github.io/dropwizard/0.9.2/docs/manual/internals.html)
+* [Dropwizard Modules Directory](http://modules.dropwizard.io/)
 
 ## Guides
 
