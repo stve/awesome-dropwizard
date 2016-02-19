@@ -21,9 +21,9 @@
 
 ## Tutorials
 
-- [Getting Started](https://dropwizard.github.io/dropwizard/getting-started.html)
-- [Official docs](http://www.dropwizard.io/manual/index.html)
-- [Dropwizard internals](http://www.dropwizard.io/manual/internals.html)
+- [Getting Started](http://www.dropwizard.io/0.9.2/docs/getting-started.html)
+- [Official docs](http://www.dropwizard.io/0.9.2/docs/manual/index.html)
+- [Dropwizard internals](http://dropwizard.github.io/dropwizard/0.9.2/docs/manual/internals.html)
 - [Dropwizard Modules Directory](http://modules.dropwizard.io/)
 
 ## Guides
