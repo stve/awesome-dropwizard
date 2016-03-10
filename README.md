@@ -4,6 +4,18 @@
 
 > Useful resources for creating apps with [Dropwizard](http://www.dropwizard.io)
 
+### Contributing
+
+Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first.
+
+## Editor Support
+
+*Support for your favorite editors.*
+
+### Eclipse
+
+* [dropwizard-tools](https://github.com/Tasktop/dropwizard-tools) - Eclipse Tools for Dropwizard
+
 ## Open Source
 
 * [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
