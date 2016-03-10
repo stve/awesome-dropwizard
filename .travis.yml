@@ -8,4 +8,4 @@ rvm:
   - 2.2
 
 script:
-  - script/travis
+  - script/test
