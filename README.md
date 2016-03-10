@@ -1,6 +1,6 @@
 # Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">](http://www.dropwizard.io)
+[<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">](http://www.dropwizard.io)
 
 > Useful resources for creating apps with [Dropwizard](http://www.dropwizard.io)
 
@@ -28,13 +28,13 @@
 
 ## Guides
 
-* [Serving Static Assets with DropWizard](http://spin.atomicobject.com/2014/10/11/serving-static-assets-with-dropwizard/)
-* [Hooking up Custom Jersey Servlets in Dropwizard](http://spin.atomicobject.com/2015/03/30/jersey-servlets-dropwizard/)
-* [Using Hibernate DAOs in DropWizard Tasks](http://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
+* [Serving Static Assets with DropWizard](https://spin.atomicobject.com/2014/10/11/serving-static-assets-with-dropwizard/)
+* [Hooking up Custom Jersey Servlets in Dropwizard](https://spin.atomicobject.com/2015/03/30/jersey-servlets-dropwizard/)
+* [Using Hibernate DAOs in DropWizard Tasks](https://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
 * [Hibernate in Dropwizard CLI Commands](http://clearthehaze.com/2015/04/hibernate-in-dropwizard-cli-commands/)
 * [Heroku for Highly Available Dropwizard Apps](http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1)
 * [Enabling Newrelic for Dropwizard](http://kyleboon.org/blog/2013/09/23/newrelic-for-dropwizard/)
-* [Application Health Checks with DropWizard](http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard/)
+* [Application Health Checks with DropWizard](http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard)
 * [Using Hystrix with Dropwizard](http://christopher-batey.blogspot.com/2014/08/using-hystrix-with-dropwizard.html)
 * [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
 * [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
@@ -61,6 +61,6 @@ Check out more [awesome projects](https://github.com/sindresorhus/awesome).
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steve Agalloco](http://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
