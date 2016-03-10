@@ -1,4 +1,4 @@
-# Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome] [![Build Status](http://img.shields.io/travis/stve/awesome-dropwizard.svg)][travis]
+# Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome] [![Build Status](https://img.shields.io/travis/stve/awesome-dropwizard.svg)][travis]
 
 [<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">][dropwizard]
 
