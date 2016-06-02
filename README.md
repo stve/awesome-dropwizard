@@ -87,6 +87,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
 * [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
 * [Use Consul's KV store for Dropwizard settings](http://blog.remmelt.com/2015/06/09/use-consuls-kv-store-for-dropwizard-settings/)
+* [Effective Health Checks With Dropwizard](https://opsee.com/guides/dropwizard/)
 
 ## Community
 
