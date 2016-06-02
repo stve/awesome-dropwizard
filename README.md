@@ -22,8 +22,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Open Source
 
-* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
-* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
 * [dropwizard-swagger](https://github.com/federecio/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
 * [dropwizard-mongo](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB.
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
@@ -38,6 +36,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [riemann-bundle](https://github.com/phaneesh/riemann-bundle) - Simplifies dropwizard metrics integration into Riemann
 * [dropwizard-service-discovery](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard.
 * [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
+
+### Guice
+
+* [dropwizard-guice](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
+* [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
+* [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration.
 
 ## Tutorials
 
