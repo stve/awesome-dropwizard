@@ -10,7 +10,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first.
+Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Editor Support
 
@@ -102,7 +102,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Awesome!
 
