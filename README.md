@@ -93,7 +93,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
 * [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
 * [Use Consul's KV store for Dropwizard settings](http://blog.remmelt.com/2015/06/09/use-consuls-kv-store-for-dropwizard-settings/)
-* [Effective Health Checks With Dropwizard](https://opsee.com/guides/dropwizard/)
 
 ## Community
 
@@ -116,6 +115,6 @@ Check out more [awesome projects](https://github.com/sindresorhus/awesome).
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steve Agalloco](http://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
