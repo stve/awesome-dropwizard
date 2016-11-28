@@ -36,6 +36,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
