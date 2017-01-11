@@ -41,6 +41,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
 * [dropwizard-markdown-assets-bundle](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
+* [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) use a gRPC server in a Dropwizard service
 
 ### Data Stores
 
