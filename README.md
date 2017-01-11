@@ -40,6 +40,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
+* [dropwizard-markdown-assets-bundle](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
 
 ### Data Stores
 
