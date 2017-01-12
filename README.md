@@ -39,7 +39,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
-
+* [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
 
 ### Authentication
 
