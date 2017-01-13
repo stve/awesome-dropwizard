@@ -83,6 +83,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
 * [dropwizard-guicier](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration.
 
+### Deployment
+
+* [WizToWar](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
+* [wizard-in-a-box](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
+
 ## Tutorials
 
 * [Getting Started](http://www.dropwizard.io/0.9.2/docs/getting-started.html)
