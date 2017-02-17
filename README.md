@@ -40,6 +40,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
 * [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
+* [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 
 ### Authentication
 
