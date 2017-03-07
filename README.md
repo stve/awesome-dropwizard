@@ -111,9 +111,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
 * [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
 * [Use Consul's KV store for Dropwizard settings](http://blog.remmelt.com/2015/06/09/use-consuls-kv-store-for-dropwizard-settings/)
-* [Deploying Dropwizard on App Engine Flex](http://www.aytech.ca/blog/dropwizard-app-engine-flexible-env/)
-* [Measuring the performance of your Dropwizard application](http://www.aytech.ca/blog/measuring-performance-dropwizard-application/)
-* [Heroku + Gradle + Dropwizard](http://www.aytech.ca/blog/heroku-gradle-dropwizard/)
+* [Deploying Dropwizard on App Engine Flex](https://www.aytech.ca/blog/dropwizard-app-engine-flexible-env/)
+* [Measuring the performance of your Dropwizard application](https://www.aytech.ca/blog/measuring-performance-dropwizard-application/)
+* [Heroku + Gradle + Dropwizard](https://www.aytech.ca/blog/heroku-gradle-dropwizard/)
 
 ## Community
 
