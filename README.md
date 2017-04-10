@@ -35,6 +35,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard
+* [dropwizard-money](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
