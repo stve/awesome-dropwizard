@@ -39,7 +39,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [breakerbox](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
 * [tenacity](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-grpc](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
-* [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
+* [sqs-dropwizard](https://github.com/bascan/aws-dropwizard) - Amazon SQS integration
 * [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 * [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint
 
@@ -104,14 +104,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Serving Static Assets with DropWizard](https://spin.atomicobject.com/2014/10/11/serving-static-assets-with-dropwizard/)
 * [Hooking up Custom Jersey Servlets in Dropwizard](https://spin.atomicobject.com/2015/03/30/jersey-servlets-dropwizard/)
 * [Using Hibernate DAOs in DropWizard Tasks](https://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
-* [Hibernate in Dropwizard CLI Commands](http://clearthehaze.com/2015/04/hibernate-in-dropwizard-cli-commands/)
+* [Hibernate in Dropwizard CLI Commands](http://clearthehaze.com/PaljZ/2015/04/hibernate-in-dropwizard-cli-commands/)
 * [Heroku for Highly Available Dropwizard Apps](http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1)
 * [Enabling Newrelic for Dropwizard](http://kyleboon.org/blog/2013/09/23/newrelic-for-dropwizard/)
 * [Application Health Checks with DropWizard](http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard)
 * [Using Hystrix with Dropwizard](http://christopher-batey.blogspot.com/2014/08/using-hystrix-with-dropwizard.html)
-* [Using Dropwizard in combination with Elasticsearch](http://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
+* [Using Dropwizard in combination with Elasticsearch](https://www.gridshore.nl/2014/05/15/using-dropwizard-combination-elasticsearch/)
 * [Deploy a Dropwizard Unikernel to AWS](https://boxfuse.com/blog/dropwizard-aws.html)
-* [Use Consul's KV store for Dropwizard settings](http://blog.remmelt.com/2015/06/09/use-consuls-kv-store-for-dropwizard-settings/)
+* [Use Consul's KV store for Dropwizard settings](http://www.remmelt.com/post/use-consuls-kv-store-for-dropwizard-settings/)
 * [Deploying Dropwizard on App Engine Flex](https://www.aytech.ca/blog/dropwizard-app-engine-flexible-env/)
 * [Measuring the performance of your Dropwizard application](https://www.aytech.ca/blog/measuring-performance-dropwizard-application/)
 * [Heroku + Gradle + Dropwizard](https://www.aytech.ca/blog/heroku-gradle-dropwizard/)
@@ -119,7 +119,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Community
 
 * [dropwizard-user](https://groups.google.com/forum/#!forum/dropwizard-user)
-* [StackOverflow](http://stackoverflow.com/questions/tagged/dropwizard)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/dropwizard)
 * [`@dropwizardio` on twitter](https://twitter.com/dropwizardio)
 
 ## Videos
