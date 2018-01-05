@@ -104,7 +104,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [Serving Static Assets with DropWizard](https://spin.atomicobject.com/2014/10/11/serving-static-assets-with-dropwizard/)
 * [Hooking up Custom Jersey Servlets in Dropwizard](https://spin.atomicobject.com/2015/03/30/jersey-servlets-dropwizard/)
 * [Using Hibernate DAOs in DropWizard Tasks](https://spin.atomicobject.com/2015/02/03/dropwizard-hibernate-dao/)
-* [Hibernate in Dropwizard CLI Commands](http://clearthehaze.com/PaljZ/2015/04/hibernate-in-dropwizard-cli-commands/)
 * [Heroku for Highly Available Dropwizard Apps](http://techbytes.anuragkapur.com/2015/05/heroku-for-highly-available-dropwizard.html?m=1)
 * [Enabling Newrelic for Dropwizard](http://kyleboon.org/blog/2013/09/23/newrelic-for-dropwizard/)
 * [Application Health Checks with DropWizard](http://willhamill.com/2014/12/04/application-health-checks-with-dropwizard)
@@ -139,4 +138,4 @@ Check out more [awesome projects](https://github.com/sindresorhus/awesome).
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Steve Agalloco](http://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Steve Agalloco](https://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
