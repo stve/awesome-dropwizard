@@ -43,6 +43,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-simple-cors](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 * [dropwizard-version-info](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint
 
+### Boilerplate Destruction
+* [Brahma-HibernateUtils](https://github.com/gozefo/brahma-hibernateutils) - An annotation processor to keep track of ```@Entity``` classes to make entity registration in dropwizard super simple.
+
 ### Authentication
 
 * [dropwizard-auth-ldap](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
