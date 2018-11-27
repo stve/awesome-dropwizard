@@ -62,7 +62,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-cassandra](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra
 * [dropwizard-riak](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak
 * [dropwizard-orient-server](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard
-* [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/atomix/)
+* [dropwizard-atomix](https://github.com/smoketurner/dropwizard-atomix) - Integration with [Atomix](http://atomix.io/)
 
 ### Metrics
 
@@ -123,7 +123,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Videos
 
-* [Introduction to Dropwizard](https://www.youtube.com/watch?v=2tSWsjtw0ms)
 * [Instant-ish Real Service Architecture](https://vimeo.com/37930578)
 
 ## Contribute
