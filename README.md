@@ -1,6 +1,6 @@
 # Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome]
 
-[<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">][dropwizard]
+[<img src="https://cdn.jsdelivr.net/gh/stve/awesome-dropwizard/dropwizard-hat.png" align="right" width="50">][dropwizard]
 
 [awesome]: https://github.com/sindresorhus/awesome
 [dropwizard]: http://www.dropwizard.io
